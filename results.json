@@ -1,19 +1,5 @@
 [
   {
-    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=ZGZVUld1b1NaRzFrZTBXZFRnV3lpQT09OjozaXFVQzJXd3NM&type=1",
-    "reservationId": "32042168",
-    "title": "Reservation details 32042168",
-    "tour": "Visite privée dans Ubud",
-    "date": "July 27, 2025",
-    "time": "08:30 am",
-    "language": "FR",
-    "city": "Bali",
-    "pickup": "Puca Gavi Eco Luxury Villa Ubud Managed by Manara, G7P5+M68, Keliki, Tegallalang, Gianyar Regency, Bali, Indonésie",
-    "people": 4,
-    "name": "Eva Guarinos",
-    "phone": "+33642896773"
-  },
-  {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=Z3pBYjJQNHRvUE9PWFZzVXdyQkNMZz09OjozaXFVQzJXd3NM&type=1",
     "reservationId": "31588017",
     "title": "Reservation details 31588017",
@@ -26,7 +12,8 @@
     "pickup": "Samkhya Villas | Jalan Pura Ulun Carik No.8, Kedewatan, Ubud, Gianyar Regency, Bali 80571, Indonesia",
     "people": 2,
     "name": "Marcello Noli",
-    "phone": "+393345948543"
+    "phone": "+393345948543",
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=MTVhNnRhZmErckNyUkhYd1hJYSs5Zz09OjozaXFVQzJXd3NM&type=1",
@@ -41,7 +28,8 @@
     "pickup": "bucu view resort    Jalan Bisma, Ubud, Bali - Indonesia",
     "people": 2,
     "name": "Mattia Rufolo",
-    "phone": "+393343854247"
+    "phone": "+393343854247",
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=VzFOd2VZWC9pL0N1M3RnTVcvYmcxUT09OjozaXFVQzJXd3NM&type=1",
@@ -56,7 +44,24 @@
     "pickup": "TJAMPUHAN HOTEL & SPA",
     "people": 2,
     "name": "Loredana Renna",
-    "phone": "+393398115194"
+    "phone": "+393398115194",
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=ZW5BbkFlTUNFZGdXY1duS0FTbHJXdz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32526250",
+    "title": "Reservation details 32526250",
+    "tour": "Tour privato dell'est di Bali",
+    "option": "Tour privato in italiano",
+    "date": "July 31, 2025",
+    "time": "07:30 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "Hotel Platinum jimbaran",
+    "people": 3,
+    "name": "Simonetta Catalani",
+    "phone": "+393346502111",
+    "confirmed": false
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=bURGMEhCUTV4UWxCSFVweHl4cGVJQT09OjozaXFVQzJXd3NM&type=1",
@@ -71,7 +76,8 @@
     "pickup": "mercure resort sanur",
     "people": 7,
     "name": "Elisabetta Di Agostino",
-    "phone": "+393357599324"
+    "phone": "+393357599324",
+    "confirmed": false
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=WFpmdHM1cm1SVUdTalNWTHFtSjVpQT09OjozaXFVQzJXd3NM&type=1",
@@ -86,7 +92,8 @@
     "pickup": "Arma Museum & Resort",
     "people": 2,
     "name": "Martina Carato",
-    "phone": "+393494672386"
+    "phone": "+393494672386",
+    "confirmed": false
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=a3k4d3Y3UzhJWG9tbnM1NEVEdG05Zz09OjozaXFVQzJXd3NM&type=1",
@@ -101,7 +108,8 @@
     "pickup": "Lily Lane Villas -  F6QX+RC5, Jalan Raya Penestanan Kelod, Ubud, Sayan, Kec. Gianyar, Kabupaten Gianyar, Bali 80571",
     "people": 2,
     "name": "Pietro Mesto",
-    "phone": "+393475891929"
+    "phone": "+393475891929",
+    "confirmed": false
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=ci9idktUbUsvWExsazMrREQ1R0tNdz09OjozaXFVQzJXd3NM&type=1",
@@ -116,6 +124,54 @@
     "pickup": "Jalan Sriwedari No. 26 Taman Kelod,  Ubud, 80571 Ubud",
     "people": 4,
     "name": "Giacomo Buffoni",
-    "phone": "+393939090389"
+    "phone": "+393939090389",
+    "confirmed": false
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=d0owTTBtVUxiaE96b25WVXZZWE9JQT09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32041054",
+    "title": "Reservation details 32041054",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 4, 2025",
+    "time": "08:30 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "BATU AGUNG VILLAS, Jl. Raya Pengosekan, Banjar Pengosekan Kelod, Kecamatan Ubud",
+    "people": 2,
+    "name": "Maria Chiara Mandanici",
+    "phone": "+393927985101",
+    "confirmed": false
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=VFhpSUNsVUFhKzNQR0V5L2EranV4QT09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32514366",
+    "title": "Reservation details 32514366",
+    "tour": "Visite privée dans Ubud",
+    "date": "August 4, 2025",
+    "time": "09:00 am",
+    "language": "FR",
+    "city": "Bali",
+    "pickup": "Bije Boutique & gallery , JL Suweta, UBUD, Kecamatan Ubud, Kabubaten Gianyar, Bali 80571",
+    "people": 4,
+    "name": "Virginie Legros",
+    "phone": "+33687396874",
+    "confirmed": false
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=SkdDRTNTUW1ybjFwVEQ4K2tJQWx5Zz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "31934575",
+    "title": "Reservation details 31934575",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 4, 2025",
+    "time": "09:00 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "Sri  Ratih Cottages, CHSE Certified, Jalan Campuhan 1, Penestanan, Bali, 80582 Ubud, Indonesia",
+    "people": 2,
+    "name": "Marika Spallino",
+    "phone": "+393914786650",
+    "confirmed": false
   }
 ]

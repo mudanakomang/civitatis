@@ -152,7 +152,7 @@ async function scrape(urls, browser) {
                 console.log('⚠️ Elemen dengan ID #booking-page-new-content tidak ditemukan');
             }
 
-            results.push({ url, reservationId: id, title, tour, ...detail, ...userDetails });
+            results.push({ url, reservationId: id, title, tour, ...detail, ...userDetails, confirmed: false });
 
         } catch (e) {
             console.log(`❌ Gagal ambil data dari ${url}:`, e.message);
