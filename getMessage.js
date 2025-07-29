@@ -54,14 +54,14 @@ async function fillTemplate(template, data) {
 }
 
 async function getCaption(target) {
-    const { name, phone, date, time, pickup, reservationId, language, person } = target
+    const { name, phone, date, time, pickup, reservationId, language, people } = target
 
     const caption = `🧍‍♀️ Name: ${name}
     📞 Phone: ${phone}
     📅 Date: ${date}
     🕐 Time: ${time}
     📍 Pickup: ${pickup}
-    👨‍👩‍👧‍👦 Person : ${person}
+    👨‍👩‍👧‍👦 Person : ${people}
     🗣️ Language: ${language}`;
 
     const imagePath = path.join(__dirname, 'bookings', `booking-content-${reservationId}.png`);
