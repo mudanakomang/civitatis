@@ -61,7 +61,7 @@
     "people": 3,
     "name": "Simonetta Catalani",
     "phone": "+393346502111",
-    "confirmed": false
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=bURGMEhCUTV4UWxCSFVweHl4cGVJQT09OjozaXFVQzJXd3NM&type=1",
@@ -77,7 +77,7 @@
     "people": 7,
     "name": "Elisabetta Di Agostino",
     "phone": "+393357599324",
-    "confirmed": false
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=WFpmdHM1cm1SVUdTalNWTHFtSjVpQT09OjozaXFVQzJXd3NM&type=1",
@@ -93,7 +93,7 @@
     "people": 2,
     "name": "Martina Carato",
     "phone": "+393494672386",
-    "confirmed": false
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=a3k4d3Y3UzhJWG9tbnM1NEVEdG05Zz09OjozaXFVQzJXd3NM&type=1",
@@ -109,7 +109,7 @@
     "people": 2,
     "name": "Pietro Mesto",
     "phone": "+393475891929",
-    "confirmed": false
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=ci9idktUbUsvWExsazMrREQ1R0tNdz09OjozaXFVQzJXd3NM&type=1",
@@ -125,7 +125,7 @@
     "people": 4,
     "name": "Giacomo Buffoni",
     "phone": "+393939090389",
-    "confirmed": false
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=d0owTTBtVUxiaE96b25WVXZZWE9JQT09OjozaXFVQzJXd3NM&type=1",
@@ -141,7 +141,7 @@
     "people": 2,
     "name": "Maria Chiara Mandanici",
     "phone": "+393927985101",
-    "confirmed": false
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=VFhpSUNsVUFhKzNQR0V5L2EranV4QT09OjozaXFVQzJXd3NM&type=1",
@@ -156,7 +156,7 @@
     "people": 4,
     "name": "Virginie Legros",
     "phone": "+33687396874",
-    "confirmed": false
+    "confirmed": true
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=SkdDRTNTUW1ybjFwVEQ4K2tJQWx5Zz09OjozaXFVQzJXd3NM&type=1",
@@ -172,6 +172,86 @@
     "people": 2,
     "name": "Marika Spallino",
     "phone": "+393914786650",
-    "confirmed": false
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=eTh3NnF1S0dzaUJWL1ZzbStKVzNrdz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32542036",
+    "title": "Reservation details 32542036",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 1, 2025",
+    "time": "09:00 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "The Samara 80571, Jalan Kajeng, Ubud",
+    "people": 2,
+    "name": "Francesca Ciamarra",
+    "phone": "+393349276345",
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=REs2UnkvZ0t6dUhYWUtLOVJMbHB4UT09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32026830",
+    "title": "Reservation details 32026830",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 5, 2025",
+    "time": "07:30 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "STHALA UBUD",
+    "people": 4,
+    "name": "Davide Satta",
+    "phone": "+393922324112",
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=V3A2MCtkTGM5MTZHSUtINzZlZkV4UT09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "31960074",
+    "title": "Reservation details 31960074",
+    "tour": "Excursion privée à l'est de Bali : Pura Lempuyang, Goa Lawah et Tirta Gangga",
+    "option": "Visite privée en français",
+    "date": "August 5, 2025",
+    "time": "08:00 am",
+    "language": "FR",
+    "city": "Bali",
+    "pickup": "Kamandalu Ubud, Jl. Raya Andong, Banjar Nagi,Kecametan Ubud,80571 Bali",
+    "people": 5,
+    "name": "Xavier Raymond",
+    "phone": "+33629808331",
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=Vmt1SUo1V3RHQXdLNldoZDBaK21NZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "31843792",
+    "title": "Reservation details 31843792",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 5, 2025",
+    "time": "08:30 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "Kastara Resort",
+    "people": 3,
+    "name": "Serena Pieropan",
+    "phone": "+393356190062",
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=c3lTUFZnOXhTdG1mbVVSRSs3YXZqZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "30199610",
+    "title": "Reservation details 30199610",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 5, 2025",
+    "time": "09:00 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "Astagina Resort Villa and Spa Bali  Gg. Bulan No.8, Legian, Kec. Kuta, Kabupaten Badung, Bali",
+    "people": 2,
+    "name": "Sabrina Gallo",
+    "phone": "+393391533753",
+    "confirmed": true
   }
 ]

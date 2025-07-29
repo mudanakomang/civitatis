@@ -2,12 +2,12 @@ const puppeteer = require('puppeteer-extra');
 const stealth = require('puppeteer-extra-plugin-stealth');
 const getUrls = require('./getUrls');
 const { default: scrape } = require('./scraper');
-const fs = require('fs/promises');
-const path = require('path');
+
+const { getMessage } = require('./getMessage');
 puppeteer.use(stealth());
 
+const { fsPromises, path, resultJsonPath } = require('./libs');
 
-const RESULTS_FILE = path.resolve(__dirname, 'results.json');
 
 (async () => {
     const browser = await puppeteer.launch({ 
@@ -40,12 +40,10 @@ const RESULTS_FILE = path.resolve(__dirname, 'results.json');
         }
     });
 
-    const content = await fs.readFile(RESULTS_FILE, 'utf8');
+    const content = await fsPromises.readFile(resultJsonPath, 'utf8');
     const existing = JSON.parse(content);
     const skipIdArray = new Set(existing.map(item => item.reservationId));
     const urls = await getUrls(page, skipIdArray);
-
-   
 
     const results = await scrape(urls, browser);
 
@@ -55,7 +53,7 @@ const RESULTS_FILE = path.resolve(__dirname, 'results.json');
     let existingData = [];
 
     try {
-        const fileContent = await fs.readFile(filePath, 'utf8');
+        const fileContent = await fsPromises.readFile(filePath, 'utf8');
         existingData = JSON.parse(fileContent);
         if (!Array.isArray(existingData)) {
             existingData = []; // fallback jika bukan array
@@ -69,7 +67,9 @@ const RESULTS_FILE = path.resolve(__dirname, 'results.json');
     existingData.push(...results); // results harus berupa array
 
     // Simpan kembali ke file
-    await fs.writeFile(filePath, JSON.stringify(existingData, null, 2), 'utf8');
+    await fsPromises.writeFile(resultJsonPath, JSON.stringify(existingData, null, 2), 'utf8');
     console.log('✅ Data ditambahkan ke results.json');
     await browser.close();
+
+    await getMessage()
 })();
