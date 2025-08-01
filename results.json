@@ -301,5 +301,37 @@
     "name": "Marco Calvi",
     "phone": "+393474061009",
     "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=U1RrSlQxbkU5TklhdTVteW5IYWFtZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "31757148",
+    "title": "Reservation details 31757148",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 8, 2025",
+    "time": "08:00 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "hotel pertiwi bisma",
+    "people": 4,
+    "name": "Riccardo Caputo",
+    "phone": "+393714151492",
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=KzhpL0NlNnJHdkFoWER3Z24xNEovUT09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "31985289",
+    "title": "Reservation details 31985289",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 8, 2025",
+    "time": "08:30 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "Bali Tropic Resort & Spa, Nusa Dua, Jl Pratama 34A Telephone: 62-361-772 130",
+    "people": 2,
+    "name": "Salvatore Ricca",
+    "phone": "+393355338101",
+    "confirmed": true
   }
 ]
