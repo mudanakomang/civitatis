@@ -589,5 +589,20 @@
     "name": "Monica Maria Lo Cigno",
     "phone": "+393489691820",
     "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=dHRudmlrQys0Q29OdWd3VG0wQkJoZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32717956",
+    "title": "Reservation details 32717956",
+    "tour": "Visite privée dans Ubud",
+    "date": "August 7, 2025",
+    "time": "08:00 am",
+    "language": "FR",
+    "city": "Bali",
+    "pickup": "Alam terrace cottage",
+    "people": 2,
+    "name": "Antoine Vandenbussche",
+    "phone": "+33645768850",
+    "confirmed": true
   }
 ]
