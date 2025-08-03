@@ -333,5 +333,53 @@
     "name": "Salvatore Ricca",
     "phone": "+393355338101",
     "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=czd5clZvRnQrSitXcll1bG13c3hVZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "31757149",
+    "title": "Reservation details 31757149",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 9, 2025",
+    "time": "08:00 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "hotel pertiwi bisma",
+    "people": 4,
+    "name": "Riccardo Caputo",
+    "phone": "+393714151492",
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=emlBYTZiNy9QZ1dkZ2NPTkYzb1FPZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32364882",
+    "title": "Reservation details 32364882",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 9, 2025",
+    "time": "08:30 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "Alaya Ubud",
+    "people": 6,
+    "name": "Umberto Rasori",
+    "phone": "+39335385123",
+    "confirmed": true
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=YUNoUDN0WUVESnFQWmZsRFJqNjFCQT09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "30879993",
+    "title": "Reservation details 30879993",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 10, 2025",
+    "time": "09:00 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "HOTEL SUARTI BOUTIQUE UBUD F7F6+25R, Jalan Raya Nyuh Kuning, Pengosekan, Ubud, Mas, Kec. Gianyar, Kabupaten Gianyar, Bali 80571, Indonesia",
+    "people": 4,
+    "name": "Raffaele Pone",
+    "phone": "+393933070765",
+    "confirmed": true
   }
 ]

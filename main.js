@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer-extra');
 const stealth = require('puppeteer-extra-plugin-stealth');
 const getUrls = require('./getUrls');
-const { default: scrape } = require('./scraper');
+const scrape = require('./scraper');
 
 const { getMessage } = require('./getMessage');
 puppeteer.use(stealth());

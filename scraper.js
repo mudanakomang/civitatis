@@ -164,4 +164,4 @@ async function scrape(urls, browser) {
     return results;
 }
 
-export default scrape;
+module.exports = scrape;
