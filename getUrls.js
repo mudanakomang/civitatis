@@ -52,21 +52,23 @@ async function getUrls(page, skipIds) {
                         ]);
 
                         const data = await response.json();
-                        if (data?.values?.[0]) {
+                        if (data?.values) {
                             const data = await response.json();
 
-                            const id = data?.values?.[0]?.idHash;
-                            const type = data?.values?.[0]?.type;
+                            for (const item of data.values) {
+                                const id = item.idHash;
+                                const type = item.type;
 
-                            const reservationId = data?.values?.[0]?.id;
-                            
-                            if (skipIds.has(reservationId.toString())) {
-                                console.log('Skip ID:', reservationId);
-                                continue;
-                            } else if (id && type) {
-                                const url = `https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=${id}&type=${type}`;
-                                console.log('URL:', url);
-                                urls.push(url);
+                                const reservationId = item.id;
+
+                                if (skipIds.has(reservationId.toString())) {
+                                    console.log('Skip ID:', reservationId);
+                                    continue;
+                                } else if (id && type) {
+                                    const url = `https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=${id}&type=${type}`;
+                                    console.log('URL:', url);
+                                    urls.push(url);
+                                }
                             }
                         }
                     } catch (innerErr) {
