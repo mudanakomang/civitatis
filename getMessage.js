@@ -1,4 +1,5 @@
-const { fsPromises, path, resultJsonPath } = require('./libs');
+const { generateEvents } = require('./calendar');
+const { fsPromises, path, resultJsonPath, calendarPath } = require('./libs');
 const { sendMessage } = require('./sender');
 
 async function getMessage() {
@@ -7,6 +8,7 @@ async function getMessage() {
     try {
         const data = await fsPromises.readFile(file, 'utf-8');
         const parsedData = JSON.parse(data);
+        const events = await generateEvents(parsedData);
 
         for (const tour of parsedData) {
             if (!tour.confirmed) {
@@ -29,7 +31,8 @@ async function getMessage() {
 
         // ✅ Simpan hasil yang sudah dimodifikasi
         await fsPromises.writeFile(resultJsonPath, JSON.stringify(parsedData, null, 2), 'utf-8');
-
+        await fsPromises.writeFile(calendarPath, events, 'utf-8');
+        await sendMessage('Update Kalender', calendarPath);
     } catch (error) {
         console.error('Gagal membaca atau menulis file:', error);
     }
