@@ -5,14 +5,65 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:32717956@balitravelawesome.com
-SUMMARY:32717956 | Visite privée dans Ubud  (FR)
-DTSTAMP:20250803T225049Z
+UID:32737001@balitravelawesome.com
+SUMMARY:32737001 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250804T233550Z
 DTSTART;VALUE=DATE:20250807
 DTEND;VALUE=DATE:20250808
-DESCRIPTION:Name: Antoine Vandenbussche\nPhone: +33645768850\nTour: Visite 
-	privée dans Ubud\nOption: \nLanguage: FR\nPickup: Alam terrace cottage\nPe
-	ople: 2
-LOCATION:Alam terrace cottage
+DESCRIPTION:Name: Giulia Falardi\nPhone: +393920325836\nTour: Tour privato 
+	dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: 
+	STHALA UBUD HOTEL [JALAN A.A GEDE RAI\, MAWANG KELOD\, LODTUNDUH - UBUD 80
+	571]\nPeople: 3
+LOCATION:STHALA UBUD HOTEL [JALAN A.A GEDE RAI\, MAWANG KELOD\, LODTUNDUH -
+	 UBUD 80571]
+END:VEVENT
+BEGIN:VEVENT
+UID:31321508@balitravelawesome.com
+SUMMARY:31321508 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250804T233550Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+DESCRIPTION:Name: Niccolo Polo\nPhone: +393391586935\nTour: Tour privato de
+	ll'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: HO
+	TEL THE MANSION-UBUD\nPeople: 3
+LOCATION:HOTEL THE MANSION-UBUD
+END:VEVENT
+BEGIN:VEVENT
+UID:32246496@balitravelawesome.com
+SUMMARY:32246496 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250804T233550Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+DESCRIPTION:Name: Carlo Scatturin\nPhone: +393205399007\nTour: Tour privato
+	 dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup:
+	 VIJE BOUTIQUE RESORT & SPA\, UBUD\, KECAMATAN UBUD\, KABUPATEN GIANYAR\, 
+	80571 BALI\nPeople: 3
+LOCATION:VIJE BOUTIQUE RESORT & SPA\, UBUD\, KECAMATAN UBUD\, KABUPATEN GIA
+	NYAR\, 80571 BALI
+END:VEVENT
+BEGIN:VEVENT
+UID:29730172@balitravelawesome.com
+SUMMARY:29730172 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250804T233550Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+DESCRIPTION:Name: Chiara Regina\nPhone: +393898845493\nTour: Tour privato d
+	i Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: nata ubud\
+	nPeople: 2
+LOCATION:nata ubud
+END:VEVENT
+BEGIN:VEVENT
+UID:31130716@balitravelawesome.com
+SUMMARY:31130716 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250804T233550Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+DESCRIPTION:Name: Corrado Cugnetto\nPhone: +39347302717\nTour: Tour privato
+	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: SERES SP
+	RINGS RESORT E SPA - SINGAKERTA\nPeople: 2
+LOCATION:SERES SPRINGS RESORT E SPA - SINGAKERTA
 END:VEVENT
 END:VCALENDAR
