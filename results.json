@@ -619,7 +619,8 @@
     "people": 3,
     "name": "Giulia Falardi",
     "phone": "+393920325836",
-    "confirmed": true
+    "confirmed": true,
+    "idMessage": "BAE51002B91DBAAF"
   },
   {
     "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=T0hGZmZpbnZ5cnpiVVVwb0M5c0NRQT09OjozaXFVQzJXd3NM&type=1",
@@ -762,6 +763,7 @@
     "people": 2,
     "name": "Niccolo Polo",
     "phone": "+393391586935",
-    "confirmed": true
+    "confirmed": true,
+    "idMessage": "BAE5126985608A5D"
   }
 ]

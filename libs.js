@@ -4,6 +4,7 @@ const path = require('path');
 const axios = require('axios')
 const formData = require('form-data');
 const ics = require('ics');
+const dayjs = require('dayjs');
 const { createEvent } = require('ics');
 const chatId = "120363420329714359@g.us"
 const resultJsonPath = path.resolve(__dirname, 'results.json');
@@ -23,5 +24,6 @@ module.exports = {
     chatId,
     ics,
     createEvent,
-    calendarPath
+    calendarPath,
+    dayjs
 };

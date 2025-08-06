@@ -7,6 +7,7 @@ const { getMessage } = require('./getMessage');
 puppeteer.use(stealth());
 
 const { fsPromises, path, resultJsonPath } = require('./libs');
+const { sendForTomorrow } = require('./tomorrow');
 
 
 (async () => {
@@ -72,4 +73,5 @@ const { fsPromises, path, resultJsonPath } = require('./libs');
     await browser.close();
 
     await getMessage()
+    await sendForTomorrow()
 })();

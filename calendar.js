@@ -2,6 +2,8 @@ const { ics } = require("./libs");
 
 async function generateEvents(tours) {
     const unconfirmed = tours.filter((tour) => !tour.confirmed);
+    if (unconfirmed.length === 0) return null
+
     const data = [];
     for (const tour of unconfirmed) {
         const startDate = new Date(tour.date); // hanya tanggal

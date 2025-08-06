@@ -16,11 +16,12 @@ async function getMessage() {
                     const message = await getTemplate(tour);
                     const { caption, imagePath } = await getCaption(tour);
 
-                    await sendMessage(message);
+                    const { idMessage } = await sendMessage(message);
                     await sendMessage(caption, imagePath);
 
                     // ✅ Tandai sebagai confirmed hanya jika keduanya berhasil
                     tour.confirmed = true;
+                    tour.idMessage = idMessage
 
                 } catch (error) {
                     console.error('Gagal mengirim pesan:', error);
@@ -30,9 +31,14 @@ async function getMessage() {
         }
 
         // ✅ Simpan hasil yang sudah dimodifikasi
+
         await fsPromises.writeFile(resultJsonPath, JSON.stringify(parsedData, null, 2), 'utf-8');
-        await fsPromises.writeFile(calendarPath, events, 'utf-8');
-        await sendMessage('Update Kalender', calendarPath);
+
+        if (events) {
+            await fsPromises.writeFile(calendarPath, events, 'utf-8');
+            await sendMessage('Update Kalender', calendarPath);
+        }
+
     } catch (error) {
         console.error('Gagal membaca atau menulis file:', error);
     }

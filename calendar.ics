@@ -4,39 +4,4 @@ CALSCALE:GREGORIAN
 PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
-BEGIN:VEVENT
-UID:32187354@balitravelawesome.com
-SUMMARY:32187354 | Tour privato dell'est di Bali | Tour privato in italiano
-	 (IT)
-DTSTAMP:20250805T231146Z
-DTSTART;VALUE=DATE:20250813
-DTEND;VALUE=DATE:20250814
-DESCRIPTION:Name: Andrea Piccolo\nPhone: +393208538744\nTour: Tour privato 
-	dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: 
-	YELLO Hotel Kuta Beachwalk Bali\nPeople: 5
-LOCATION:YELLO Hotel Kuta Beachwalk Bali
-END:VEVENT
-BEGIN:VEVENT
-UID:32453910@balitravelawesome.com
-SUMMARY:32453910 | Tour privato dell'est di Bali | Tour privato in italiano
-	 (IT)
-DTSTAMP:20250805T231146Z
-DTSTART;VALUE=DATE:20250813
-DTEND;VALUE=DATE:20250814
-DESCRIPTION:Name: Giulia Piccolo\nPhone: +393475668667\nTour: Tour privato 
-	dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: 
-	YELLO Hotel Kuta Beachwalk Bali\nPeople: 3
-LOCATION:YELLO Hotel Kuta Beachwalk Bali
-END:VEVENT
-BEGIN:VEVENT
-UID:31870392@balitravelawesome.com
-SUMMARY:31870392 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250805T231146Z
-DTSTART;VALUE=DATE:20250813
-DTEND;VALUE=DATE:20250814
-DESCRIPTION:Name: Niccolo Polo\nPhone: +393391586935\nTour: Tour privato di
-	 Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: The Mansion
-	 Resort-Sayan-Ubud\nPeople: 2
-LOCATION:The Mansion Resort-Sayan-Ubud
-END:VEVENT
 END:VCALENDAR
