@@ -4,4 +4,39 @@ CALSCALE:GREGORIAN
 PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:32549148@balitravelawesome.com
+SUMMARY:32549148 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250806T225330Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+DESCRIPTION:Name: Martina Mariano\nPhone: +393476735082\nTour: Tour privato
+	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Samhita 
+	Garden Ubud - Jalan Bisma 80571 Ubud\nPeople: 3
+LOCATION:Samhita Garden Ubud - Jalan Bisma 80571 Ubud
+END:VEVENT
+BEGIN:VEVENT
+UID:31765564@balitravelawesome.com
+SUMMARY:31765564 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250806T225330Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+DESCRIPTION:Name: Melania Evangelista\nPhone: +393493636844\nTour: Tour pri
+	vato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Kawi
+	 Resort    Jl. Ir. Soekarno\, Tampak Siring\, Gianyar\, Bali – Indonesia\n
+	People: 2
+LOCATION:Kawi Resort    Jl. Ir. Soekarno\, Tampak Siring\, Gianyar\, Bali –
+	 Indonesia
+END:VEVENT
+BEGIN:VEVENT
+UID:32821462@balitravelawesome.com
+SUMMARY:32821462 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250806T225330Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+DESCRIPTION:Name: Gian Piero Pinco\nPhone: +393703342165\nTour: Tour privat
+	o di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Kuta se
+	aview boutique hotel Jalan pantai Kuta\nPeople: 4
+LOCATION:Kuta seaview boutique hotel Jalan pantai Kuta
+END:VEVENT
 END:VCALENDAR
