@@ -5,48 +5,50 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:32864696@balitravelawesome.com
-SUMMARY:32864696 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250808T141314Z
-DTSTART;VALUE=DATE:20250811
-DTEND;VALUE=DATE:20250812
-DESCRIPTION:Name: Daniele Martinelli\nPhone: +393392421907\nTour: Tour priv
-	ato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Kaman
-	dalu Ubud - Jalan Andong\, Banjar Nagi\, Ubud Bali 80571\nPeople: 2
-LOCATION:Kamandalu Ubud - Jalan Andong\, Banjar Nagi\, Ubud Bali 80571
-END:VEVENT
-BEGIN:VEVENT
-UID:31129887@balitravelawesome.com
-SUMMARY:31129887 | Tour privato dell'est di Bali | Tour privato in italiano
+UID:31130717@balitravelawesome.com
+SUMMARY:31130717 | Tour privato dell'est di Bali | Tour privato in italiano
 	 (IT)
-DTSTAMP:20250808T141314Z
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250816
-DESCRIPTION:Name: Lauretta Barrella\nPhone: +393498107609\nTour: Tour priva
-	to dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPicku
-	p: Svarga Bebek Villas\nPeople: 5
-LOCATION:Svarga Bebek Villas
+DTSTAMP:20250808T220724Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+DESCRIPTION:Name: Corrado Cugnetto\nPhone: +39347302717\nTour: Tour privato
+	 dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup:
+	 BINTANG RESORT - JL KARTIKA PLAZA KUTA\nPeople: 3
+LOCATION:BINTANG RESORT - JL KARTIKA PLAZA KUTA
 END:VEVENT
 BEGIN:VEVENT
-UID:32111803@balitravelawesome.com
-SUMMARY:32111803 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250808T141314Z
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250816
-DESCRIPTION:Name: Francesca Dambrosio\nPhone: +393205304522\nTour: Tour pri
-	vato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Samh
-	ita garden ubud\,  jl Bisma ubud\nPeople: 5
-LOCATION:Samhita garden ubud\,  jl Bisma ubud
+UID:31514918@balitravelawesome.com
+SUMMARY:31514918 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250808T220724Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+DESCRIPTION:Name: Francesco Pisauri\nPhone: +393312745965\nTour: Tour priva
+	to di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: THE VI
+	RA BALI BOUTIQUE HOTEL E SUITE.\nPeople: 4
+LOCATION:THE VIRA BALI BOUTIQUE HOTEL E SUITE.
 END:VEVENT
 BEGIN:VEVENT
-UID:32765716@balitravelawesome.com
-SUMMARY:32765716 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250808T141314Z
-DTSTART;VALUE=DATE:20250815
-DTEND;VALUE=DATE:20250816
-DESCRIPTION:Name: Antonio Dellanna\nPhone: +393896874082\nTour: Tour privat
-	o di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: The Sei
-	ryu Villas\, Jalan Drupadi No. 8\, Seminyak 80361\nPeople: 2
-LOCATION:The Seiryu Villas\, Jalan Drupadi No. 8\, Seminyak 80361
+UID:32760126@balitravelawesome.com
+SUMMARY:32760126 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250808T220724Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+DESCRIPTION:Name: Salvatore Emmanuello\nPhone: +393510514898\nTour: Tour pr
+	ivato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: bal
+	i tropic resort & Spa Jl. Pratama Nusa Dua No.34 A\, Benoa\, Kec. Kuta Sel
+	.\, Kabupaten Badung\, Bali 80363\, Indonesia\nPeople: 2
+LOCATION:bali tropic resort & Spa Jl. Pratama Nusa Dua No.34 A\, Benoa\, Ke
+	c. Kuta Sel.\, Kabupaten Badung\, Bali 80363\, Indonesia
+END:VEVENT
+BEGIN:VEVENT
+UID:30320025@balitravelawesome.com
+SUMMARY:30320025 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250808T220724Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+DESCRIPTION:Name: Paolo Mele\nPhone: +393478631428\nTour: Tour privato di U
+	bud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: ALAYA RESORT 
+	UBUD\nPeople: 4
+LOCATION:ALAYA RESORT UBUD
 END:VEVENT
 END:VCALENDAR
