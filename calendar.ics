@@ -5,38 +5,48 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:32549148@balitravelawesome.com
-SUMMARY:32549148 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250806T225330Z
-DTSTART;VALUE=DATE:20250814
-DTEND;VALUE=DATE:20250815
-DESCRIPTION:Name: Martina Mariano\nPhone: +393476735082\nTour: Tour privato
-	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Samhita 
-	Garden Ubud - Jalan Bisma 80571 Ubud\nPeople: 3
-LOCATION:Samhita Garden Ubud - Jalan Bisma 80571 Ubud
+UID:32864696@balitravelawesome.com
+SUMMARY:32864696 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250808T141314Z
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+DESCRIPTION:Name: Daniele Martinelli\nPhone: +393392421907\nTour: Tour priv
+	ato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Kaman
+	dalu Ubud - Jalan Andong\, Banjar Nagi\, Ubud Bali 80571\nPeople: 2
+LOCATION:Kamandalu Ubud - Jalan Andong\, Banjar Nagi\, Ubud Bali 80571
 END:VEVENT
 BEGIN:VEVENT
-UID:31765564@balitravelawesome.com
-SUMMARY:31765564 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250806T225330Z
-DTSTART;VALUE=DATE:20250814
-DTEND;VALUE=DATE:20250815
-DESCRIPTION:Name: Melania Evangelista\nPhone: +393493636844\nTour: Tour pri
-	vato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Kawi
-	 Resort    Jl. Ir. Soekarno\, Tampak Siring\, Gianyar\, Bali – Indonesia\n
-	People: 2
-LOCATION:Kawi Resort    Jl. Ir. Soekarno\, Tampak Siring\, Gianyar\, Bali –
-	 Indonesia
+UID:31129887@balitravelawesome.com
+SUMMARY:31129887 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250808T141314Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+DESCRIPTION:Name: Lauretta Barrella\nPhone: +393498107609\nTour: Tour priva
+	to dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPicku
+	p: Svarga Bebek Villas\nPeople: 5
+LOCATION:Svarga Bebek Villas
 END:VEVENT
 BEGIN:VEVENT
-UID:32821462@balitravelawesome.com
-SUMMARY:32821462 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250806T225330Z
-DTSTART;VALUE=DATE:20250814
-DTEND;VALUE=DATE:20250815
-DESCRIPTION:Name: Gian Piero Pinco\nPhone: +393703342165\nTour: Tour privat
-	o di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Kuta se
-	aview boutique hotel Jalan pantai Kuta\nPeople: 4
-LOCATION:Kuta seaview boutique hotel Jalan pantai Kuta
+UID:32111803@balitravelawesome.com
+SUMMARY:32111803 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250808T141314Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+DESCRIPTION:Name: Francesca Dambrosio\nPhone: +393205304522\nTour: Tour pri
+	vato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Samh
+	ita garden ubud\,  jl Bisma ubud\nPeople: 5
+LOCATION:Samhita garden ubud\,  jl Bisma ubud
+END:VEVENT
+BEGIN:VEVENT
+UID:32765716@balitravelawesome.com
+SUMMARY:32765716 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250808T141314Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+DESCRIPTION:Name: Antonio Dellanna\nPhone: +393896874082\nTour: Tour privat
+	o di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: The Sei
+	ryu Villas\, Jalan Drupadi No. 8\, Seminyak 80361\nPeople: 2
+LOCATION:The Seiryu Villas\, Jalan Drupadi No. 8\, Seminyak 80361
 END:VEVENT
 END:VCALENDAR
