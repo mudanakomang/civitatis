@@ -5,50 +5,30 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:31130717@balitravelawesome.com
-SUMMARY:31130717 | Tour privato dell'est di Bali | Tour privato in italiano
+UID:32891574@balitravelawesome.com
+SUMMARY:32891574 | Tour privato dell'est di Bali | Tour privato in italiano
 	 (IT)
-DTSTAMP:20250808T220724Z
-DTSTART;VALUE=DATE:20250816
-DTEND;VALUE=DATE:20250817
-DESCRIPTION:Name: Corrado Cugnetto\nPhone: +39347302717\nTour: Tour privato
-	 dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup:
-	 BINTANG RESORT - JL KARTIKA PLAZA KUTA\nPeople: 3
-LOCATION:BINTANG RESORT - JL KARTIKA PLAZA KUTA
+DTSTAMP:20250809T105735Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+DESCRIPTION:Name: Nicolo Simone Venezia\nPhone: +393345936623\nTour: Tour p
+	rivato dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nP
+	ickup: Kakul Villas & Suites - Jl. Lodtunduh 1\, Ubud\, Bali\, 80571 Indon
+	esia\nPeople: 3
+LOCATION:Kakul Villas & Suites - Jl. Lodtunduh 1\, Ubud\, Bali\, 80571 Indo
+	nesia
 END:VEVENT
 BEGIN:VEVENT
-UID:31514918@balitravelawesome.com
-SUMMARY:31514918 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250808T220724Z
-DTSTART;VALUE=DATE:20250816
-DTEND;VALUE=DATE:20250817
-DESCRIPTION:Name: Francesco Pisauri\nPhone: +393312745965\nTour: Tour priva
-	to di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: THE VI
-	RA BALI BOUTIQUE HOTEL E SUITE.\nPeople: 4
-LOCATION:THE VIRA BALI BOUTIQUE HOTEL E SUITE.
-END:VEVENT
-BEGIN:VEVENT
-UID:32760126@balitravelawesome.com
-SUMMARY:32760126 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250808T220724Z
-DTSTART;VALUE=DATE:20250816
-DTEND;VALUE=DATE:20250817
-DESCRIPTION:Name: Salvatore Emmanuello\nPhone: +393510514898\nTour: Tour pr
-	ivato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: bal
-	i tropic resort & Spa Jl. Pratama Nusa Dua No.34 A\, Benoa\, Kec. Kuta Sel
-	.\, Kabupaten Badung\, Bali 80363\, Indonesia\nPeople: 2
-LOCATION:bali tropic resort & Spa Jl. Pratama Nusa Dua No.34 A\, Benoa\, Ke
-	c. Kuta Sel.\, Kabupaten Badung\, Bali 80363\, Indonesia
-END:VEVENT
-BEGIN:VEVENT
-UID:30320025@balitravelawesome.com
-SUMMARY:30320025 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250808T220724Z
-DTSTART;VALUE=DATE:20250816
-DTEND;VALUE=DATE:20250817
-DESCRIPTION:Name: Paolo Mele\nPhone: +393478631428\nTour: Tour privato di U
-	bud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: ALAYA RESORT 
-	UBUD\nPeople: 4
-LOCATION:ALAYA RESORT UBUD
+UID:32891575@balitravelawesome.com
+SUMMARY:32891575 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250809T105735Z
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250814
+DESCRIPTION:Name: Nicolo Simone Venezia\nPhone: +393345936623\nTour: Tour p
+	rivato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Ka
+	kul Villas & Suites - Jl. Lodtunduh 1\, Ubud\, Bali\, 80571 Indonesia\nPeo
+	ple: 2
+LOCATION:Kakul Villas & Suites - Jl. Lodtunduh 1\, Ubud\, Bali\, 80571 Indo
+	nesia
 END:VEVENT
 END:VCALENDAR
