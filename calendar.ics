@@ -5,30 +5,107 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:32891574@balitravelawesome.com
-SUMMARY:32891574 | Tour privato dell'est di Bali | Tour privato in italiano
+UID:32819463@balitravelawesome.com
+SUMMARY:32819463 | Tour privato dell'est di Bali | Tour privato in italiano
 	 (IT)
-DTSTAMP:20250809T105735Z
-DTSTART;VALUE=DATE:20250812
-DTEND;VALUE=DATE:20250813
-DESCRIPTION:Name: Nicolo Simone Venezia\nPhone: +393345936623\nTour: Tour p
-	rivato dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nP
-	ickup: Kakul Villas & Suites - Jl. Lodtunduh 1\, Ubud\, Bali\, 80571 Indon
-	esia\nPeople: 3
-LOCATION:Kakul Villas & Suites - Jl. Lodtunduh 1\, Ubud\, Bali\, 80571 Indo
-	nesia
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Silvia Grecchi\nPhone: +393312600669\nTour: Tour privato 
+	dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: 
+	B SAYA VILLA\nPeople: 3
+LOCATION:B SAYA VILLA
 END:VEVENT
 BEGIN:VEVENT
-UID:32891575@balitravelawesome.com
-SUMMARY:32891575 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250809T105735Z
-DTSTART;VALUE=DATE:20250813
-DTEND;VALUE=DATE:20250814
-DESCRIPTION:Name: Nicolo Simone Venezia\nPhone: +393345936623\nTour: Tour p
-	rivato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Ka
-	kul Villas & Suites - Jl. Lodtunduh 1\, Ubud\, Bali\, 80571 Indonesia\nPeo
-	ple: 2
-LOCATION:Kakul Villas & Suites - Jl. Lodtunduh 1\, Ubud\, Bali\, 80571 Indo
-	nesia
+UID:30975853@balitravelawesome.com
+SUMMARY:30975853 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Chiara Ornaghi\nPhone: +393358175043\nTour: Tour privato 
+	di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Taman Bin
+	tang Villa Ubud\nPeople: 6
+LOCATION:Taman Bintang Villa Ubud
+END:VEVENT
+BEGIN:VEVENT
+UID:30976877@balitravelawesome.com
+SUMMARY:30976877 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Valentina Barni\nPhone: +393450721111\nTour: Tour privato
+	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Bumi Muw
+	a Ubud Katiklantang\nPeople: 6
+LOCATION:Bumi Muwa Ubud Katiklantang
+END:VEVENT
+BEGIN:VEVENT
+UID:32874495@balitravelawesome.com
+SUMMARY:32874495 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Lorella Porrini\nPhone: +393336421644\nTour: Tour privato
+	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: ramayana
+	 suites & resort - JI. BAKUNG SARI KUTA 80361\nPeople: 4
+LOCATION:ramayana suites & resort - JI. BAKUNG SARI KUTA 80361
+END:VEVENT
+BEGIN:VEVENT
+UID:31250829@balitravelawesome.com
+SUMMARY:31250829 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Francesco Calogiuri\nPhone: +393287091871\nTour: Tour pri
+	vato dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPic
+	kup: 3\nPeople: 3
+LOCATION:3
+END:VEVENT
+BEGIN:VEVENT
+UID:31521144@balitravelawesome.com
+SUMMARY:31521144 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Erica Foggi\nPhone: +393394243054\nTour: Tour privato del
+	l'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: pur
+	iartha\nPeople: 3
+LOCATION:puriartha
+END:VEVENT
+BEGIN:VEVENT
+UID:32194586@balitravelawesome.com
+SUMMARY:32194586 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Anna Santamaria\nPhone: +392837191\nTour: Tour privato de
+	ll'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: ba
+	li tropic resort Jl. Pratama Tanjung Benoa Bali 34a\nPeople: 3
+LOCATION:bali tropic resort Jl. Pratama Tanjung Benoa Bali 34a
+END:VEVENT
+BEGIN:VEVENT
+UID:32836149@balitravelawesome.com
+SUMMARY:32836149 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Davide Darenzo\nPhone: +393349229150\nTour: Tour privato 
+	dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: 
+	PAK’VO’HOUSE (Jalan Sandat\, 80571 Ubud\, Indonesia)\nPeople: 9
+LOCATION:PAK’VO’HOUSE (Jalan Sandat\, 80571 Ubud\, Indonesia)
+END:VEVENT
+BEGIN:VEVENT
+UID:32647970@balitravelawesome.com
+SUMMARY:32647970 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250810T231748Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DESCRIPTION:Name: Francesca Migliore\nPhone: +393482954129\nTour: Tour priv
+	ato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: biji 
+	suite villa ubud\nPeople: 2
+LOCATION:biji suite villa ubud
 END:VEVENT
 END:VCALENDAR
