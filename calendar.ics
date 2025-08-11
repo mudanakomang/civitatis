@@ -5,14 +5,84 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:32944598@balitravelawesome.com
-SUMMARY:32944598 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250811T150700Z
-DTSTART;VALUE=DATE:20250817
-DTEND;VALUE=DATE:20250818
-DESCRIPTION:Name: Astrid Panizza\nPhone: +393477841600\nTour: Tour privato 
-	di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Element b
-	y westin bali ubud\, 80571\, JL Raya Andong no 88\, Ubud\nPeople: 2
-LOCATION:Element by westin bali ubud\, 80571\, JL Raya Andong no 88\, Ubud
+UID:32924125@balitravelawesome.com
+SUMMARY:32924125 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250811T231319Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+DESCRIPTION:Name: Sergio Monetti\nPhone: +393461214325\nTour: Tour privato 
+	di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: The Sun H
+	otel & Spa Legian\, Bali\nPeople: 4
+LOCATION:The Sun Hotel & Spa Legian\, Bali
+END:VEVENT
+BEGIN:VEVENT
+UID:30881368@balitravelawesome.com
+SUMMARY:30881368 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250811T231319Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+DESCRIPTION:Name: Marina Libonati\nPhone: +393391832267\nTour: Tour privato
+	 dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup:
+	 Bisma eight ubud\nPeople: 3
+LOCATION:Bisma eight ubud
+END:VEVENT
+BEGIN:VEVENT
+UID:30976080@balitravelawesome.com
+SUMMARY:30976080 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250811T231319Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+DESCRIPTION:Name: Chiara Ornaghi\nPhone: +393358175043\nTour: Tour privato 
+	dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: 
+	buma mawi ubud\nPeople: 13
+LOCATION:buma mawi ubud
+END:VEVENT
+BEGIN:VEVENT
+UID:30995001@balitravelawesome.com
+SUMMARY:30995001 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250811T231319Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+DESCRIPTION:Name: Gabriele Giusti\nPhone: +393208538744\nTour: Tour privato
+	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: ROYAL PI
+	TA MAHA\nPeople: 3
+LOCATION:ROYAL PITA MAHA
+END:VEVENT
+BEGIN:VEVENT
+UID:31417657@balitravelawesome.com
+SUMMARY:31417657 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250811T231319Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+DESCRIPTION:Name: Silvia Fantoni\nPhone: +393333885399\nTour: Tour privato 
+	di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Adiwana S
+	varga Loka UBUD\nPeople: 5
+LOCATION:Adiwana Svarga Loka UBUD
+END:VEVENT
+BEGIN:VEVENT
+UID:32249622@balitravelawesome.com
+SUMMARY:32249622 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250811T231319Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+DESCRIPTION:Name: Anna Maria Ercole\nPhone: +393405532851\nTour: Tour priva
+	to di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: KAAMAL
+	A LUXURY RESORT & SPA Jl. Bisma No.888A\, Ubud\nPeople: 6
+LOCATION:KAAMALA LUXURY RESORT & SPA Jl. Bisma No.888A\, Ubud
+END:VEVENT
+BEGIN:VEVENT
+UID:32388174@balitravelawesome.com
+SUMMARY:32388174 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250811T231319Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+DESCRIPTION:Name: Antonio Carloni\nPhone: +393471747939\nTour: Tour privato
+	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Visesa U
+	bud Resort\, Jl. Suweta\, Bentuyung Sakti\, Kecamatan Ubud\, Kabupaten Gia
+	nyar\, Bali 80571\, Indonesia Telefono: +62 361 2091788\nPeople: 2
+LOCATION:Visesa Ubud Resort\, Jl. Suweta\, Bentuyung Sakti\, Kecamatan Ubud
+	\, Kabupaten Gianyar\, Bali 80571\, Indonesia Telefono: +62 361 2091788
 END:VEVENT
 END:VCALENDAR
