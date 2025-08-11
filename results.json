@@ -1241,5 +1241,22 @@
     "phone": "+393482954129",
     "confirmed": true,
     "idMessage": "BAE5FA94330EE1E7"
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=MU5rN0lPOFhpNmRucExyT0V6OVVYZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32944598",
+    "title": "Reservation details 32944598",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 17, 2025",
+    "time": "08:30 am",
+    "language": "IT",
+    "city": "Bali",
+    "pickup": "Element by westin bali ubud, 80571, JL Raya Andong no 88, Ubud",
+    "people": 2,
+    "name": "Astrid Panizza",
+    "phone": "+393477841600",
+    "confirmed": true,
+    "idMessage": "BAE50E4BD1AE3198"
   }
 ]
