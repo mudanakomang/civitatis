@@ -5,74 +5,61 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:30977039@balitravelawesome.com
-SUMMARY:30977039 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250812T225737Z
-DTSTART;VALUE=DATE:20250820
-DTEND;VALUE=DATE:20250821
-DESCRIPTION:Name: Roberta Balzarini\nPhone: +393382959095\nTour: Tour priva
-	to di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Bumi M
-	uwa Ubud Katiklantang\nPeople: 10
-LOCATION:Bumi Muwa Ubud Katiklantang
+UID:31765073@balitravelawesome.com
+SUMMARY:31765073 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250814T054013Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250822
+DESCRIPTION:Name: Renato Tarallo\nPhone: +393381070074\nTour: Tour privato 
+	di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Natura Re
+	sort Ubud\, Banjaar Laplapan\, Ubud\, Bali\, 80571\nPeople: 4
+LOCATION:Natura Resort Ubud\, Banjaar Laplapan\, Ubud\, Bali\, 80571
 END:VEVENT
 BEGIN:VEVENT
-UID:30990109@balitravelawesome.com
-SUMMARY:30990109 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250812T225737Z
-DTSTART;VALUE=DATE:20250820
-DTEND;VALUE=DATE:20250821
+UID:31843245@balitravelawesome.com
+SUMMARY:31843245 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250814T054013Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250822
+DESCRIPTION:Name: Marco Manganotti\nPhone: +393394984421\nTour: Tour privat
+	o di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: HE LOKH
+	A UBUD RESORT  VILLAS & SPA  Bangkiangsidem Desa Kelili Tegallalagand Ubud
+	\nPeople: 4
+LOCATION:HE LOKHA UBUD RESORT  VILLAS & SPA  Bangkiangsidem Desa Kelili Teg
+	allalagand Ubud
+END:VEVENT
+BEGIN:VEVENT
+UID:30990173@balitravelawesome.com
+SUMMARY:30990173 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250814T054013Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250822
 DESCRIPTION:Name: Annalisa Ballarini\nPhone: +393428547849\nTour: Tour priv
-	ato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: bumi 
-	muwa ubud\nPeople: 4
+	ato dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPick
+	up: bumi muwa ubud\nPeople: 13
 LOCATION:bumi muwa ubud
 END:VEVENT
 BEGIN:VEVENT
-UID:32239701@balitravelawesome.com
-SUMMARY:32239701 | Tour privato dell'est di Bali | Tour privato in italiano
-	 (IT)
-DTSTAMP:20250812T225737Z
-DTSTART;VALUE=DATE:20250820
-DTEND;VALUE=DATE:20250821
-DESCRIPTION:Name: Denise Incognito\nPhone: +393298556200\nTour: Tour privat
-	o dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup
-	: KENRAN RESORT UBUD\, Jl. Raya Kenderan\, Kenderan\, Tegallalang\, Gianya
-	r Regency\, Bali 80552\nPeople: 3
-LOCATION:KENRAN RESORT UBUD\, Jl. Raya Kenderan\, Kenderan\, Tegallalang\, 
-	Gianyar Regency\, Bali 80552
+UID:30204056@balitravelawesome.com
+SUMMARY:30204056 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250814T054013Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250822
+DESCRIPTION:Name: Giuseppe Napolitano\nPhone: +393451527196\nTour: Tour pri
+	vato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Sank
+	ara resort e spa \, Ubud\nPeople: 2
+LOCATION:Sankara resort e spa \, Ubud
 END:VEVENT
 BEGIN:VEVENT
-UID:29785574@balitravelawesome.com
-SUMMARY:29785574 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250812T225737Z
-DTSTART;VALUE=DATE:20250820
-DTEND;VALUE=DATE:20250821
-DESCRIPTION:Name: Rosa Volpe\nPhone: +393479965635\nTour: Tour privato di U
-	bud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: best western 
-	premier agung resort\nPeople: 2
-LOCATION:best western premier agung resort
-END:VEVENT
-BEGIN:VEVENT
-UID:32194587@balitravelawesome.com
-SUMMARY:32194587 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250812T225737Z
-DTSTART;VALUE=DATE:20250820
-DTEND;VALUE=DATE:20250821
-DESCRIPTION:Name: Anna Santamaria\nPhone: +392837191\nTour: Tour privato di
-	 Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: bali tropic
-	 resort Jl. Pratama Tanjung Benoa Bali 34a\nPeople: 2
-LOCATION:bali tropic resort Jl. Pratama Tanjung Benoa Bali 34a
-END:VEVENT
-BEGIN:VEVENT
-UID:32961824@balitravelawesome.com
-SUMMARY:32961824 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250812T225737Z
-DTSTART;VALUE=DATE:20250820
-DTEND;VALUE=DATE:20250821
-DESCRIPTION:Name: Vincenzo Tranchini\nPhone: +393313878602\nTour: Tour priv
-	ato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: THE W
-	ESTIN RESORT & SPA - UBUD - JL lod tunduh - Singakerta\, Kecamatan Gianyar
-	\, Bali 80571\nPeople: 4
-LOCATION:THE WESTIN RESORT & SPA - UBUD - JL lod tunduh - Singakerta\, Keca
-	matan Gianyar\, Bali 80571
+UID:31796214@balitravelawesome.com
+SUMMARY:31796214 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250814T054013Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250822
+DESCRIPTION:Name: Mario Ilsami\nPhone: +393391445717\nTour: Tour privato di
+	 Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: The Sankara
+	 Resort & Spa by Pramana\nPeople: 2
+LOCATION:The Sankara Resort & Spa by Pramana
 END:VEVENT
 END:VCALENDAR
