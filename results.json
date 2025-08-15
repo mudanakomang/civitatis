@@ -1553,5 +1553,53 @@
     "phone": "+393391445717",
     "confirmed": true,
     "idMessage": "BAE56F04F8114D1D"
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=TG12b2hoOUc5czQvTmJ3VUdjM2JpUT09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "33063059",
+    "title": "Reservation details 33063059",
+    "tour": "Tour privato dell'est di Bali",
+    "option": "Tour privato in italiano",
+    "date": "August 21, 2025",
+    "time": "08:00 am",
+    "language": "IT",
+    "pickup": "The Tempekan Heritage Jalan Goa Lempeh No. 27A, Uluwatu Pecatu, Kuta Selatan, Pecatu, Uluwatu",
+    "people": 3,
+    "name": "Laila Conrotto",
+    "phone": "+393384873391",
+    "confirmed": true,
+    "idMessage": "BAE53655040F999B"
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=OEExRmZwYytidVU5cDVNNWw5NmZCdz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "31796215",
+    "title": "Reservation details 31796215",
+    "tour": "Tour privato dell'est di Bali",
+    "option": "Tour privato in italiano",
+    "date": "August 22, 2025",
+    "time": "08:00 am",
+    "language": "IT",
+    "pickup": "The Sankara Resort & Spa by Pramana",
+    "people": 3,
+    "name": "Mario Ilsami",
+    "phone": "+393391445717",
+    "confirmed": true,
+    "idMessage": "BAE53D325FA6FD1F"
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=M05RUk0rdWtqbGFpS2lRQ0xOSUZtQT09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "31224460",
+    "title": "Reservation details 31224460",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 22, 2025",
+    "time": "09:00 am",
+    "language": "IT",
+    "pickup": "Jalan Kajeng, Juwuk Manis, Ubud, 80571, Indonesia",
+    "people": 2,
+    "name": "Giorgia Madonna",
+    "phone": "+393881955136",
+    "confirmed": true,
+    "idMessage": "BAE56D1C1232D9C7"
   }
 ]

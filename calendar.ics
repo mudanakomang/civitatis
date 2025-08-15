@@ -5,61 +5,40 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:31765073@balitravelawesome.com
-SUMMARY:31765073 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250814T054013Z
-DTSTART;VALUE=DATE:20250821
-DTEND;VALUE=DATE:20250822
-DESCRIPTION:Name: Renato Tarallo\nPhone: +393381070074\nTour: Tour privato 
-	di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Natura Re
-	sort Ubud\, Banjaar Laplapan\, Ubud\, Bali\, 80571\nPeople: 4
-LOCATION:Natura Resort Ubud\, Banjaar Laplapan\, Ubud\, Bali\, 80571
-END:VEVENT
-BEGIN:VEVENT
-UID:31843245@balitravelawesome.com
-SUMMARY:31843245 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250814T054013Z
-DTSTART;VALUE=DATE:20250821
-DTEND;VALUE=DATE:20250822
-DESCRIPTION:Name: Marco Manganotti\nPhone: +393394984421\nTour: Tour privat
-	o di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: HE LOKH
-	A UBUD RESORT  VILLAS & SPA  Bangkiangsidem Desa Kelili Tegallalagand Ubud
-	\nPeople: 4
-LOCATION:HE LOKHA UBUD RESORT  VILLAS & SPA  Bangkiangsidem Desa Kelili Teg
-	allalagand Ubud
-END:VEVENT
-BEGIN:VEVENT
-UID:30990173@balitravelawesome.com
-SUMMARY:30990173 | Tour privato dell'est di Bali | Tour privato in italiano
+UID:33063059@balitravelawesome.com
+SUMMARY:33063059 | Tour privato dell'est di Bali | Tour privato in italiano
 	 (IT)
-DTSTAMP:20250814T054013Z
+DTSTAMP:20250814T232519Z
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
-DESCRIPTION:Name: Annalisa Ballarini\nPhone: +393428547849\nTour: Tour priv
-	ato dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPick
-	up: bumi muwa ubud\nPeople: 13
-LOCATION:bumi muwa ubud
+DESCRIPTION:Name: Laila Conrotto\nPhone: +393384873391\nTour: Tour privato 
+	dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: 
+	The Tempekan Heritage Jalan Goa Lempeh No. 27A\, Uluwatu Pecatu\, Kuta Sel
+	atan\, Pecatu\, Uluwatu\nPeople: 3
+LOCATION:The Tempekan Heritage Jalan Goa Lempeh No. 27A\, Uluwatu Pecatu\, 
+	Kuta Selatan\, Pecatu\, Uluwatu
 END:VEVENT
 BEGIN:VEVENT
-UID:30204056@balitravelawesome.com
-SUMMARY:30204056 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250814T054013Z
-DTSTART;VALUE=DATE:20250821
-DTEND;VALUE=DATE:20250822
-DESCRIPTION:Name: Giuseppe Napolitano\nPhone: +393451527196\nTour: Tour pri
-	vato di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Sank
-	ara resort e spa \, Ubud\nPeople: 2
-LOCATION:Sankara resort e spa \, Ubud
-END:VEVENT
-BEGIN:VEVENT
-UID:31796214@balitravelawesome.com
-SUMMARY:31796214 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250814T054013Z
-DTSTART;VALUE=DATE:20250821
-DTEND;VALUE=DATE:20250822
-DESCRIPTION:Name: Mario Ilsami\nPhone: +393391445717\nTour: Tour privato di
-	 Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: The Sankara
-	 Resort & Spa by Pramana\nPeople: 2
+UID:31796215@balitravelawesome.com
+SUMMARY:31796215 | Tour privato dell'est di Bali | Tour privato in italiano
+	 (IT)
+DTSTAMP:20250814T232519Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+DESCRIPTION:Name: Mario Ilsami\nPhone: +393391445717\nTour: Tour privato de
+	ll'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Th
+	e Sankara Resort & Spa by Pramana\nPeople: 3
 LOCATION:The Sankara Resort & Spa by Pramana
+END:VEVENT
+BEGIN:VEVENT
+UID:31224460@balitravelawesome.com
+SUMMARY:31224460 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250814T232519Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+DESCRIPTION:Name: Giorgia Madonna\nPhone: +393881955136\nTour: Tour privato
+	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Jalan Ka
+	jeng\, Juwuk Manis\, Ubud\, 80571\, Indonesia\nPeople: 2
+LOCATION:Jalan Kajeng\, Juwuk Manis\, Ubud\, 80571\, Indonesia
 END:VEVENT
 END:VCALENDAR
