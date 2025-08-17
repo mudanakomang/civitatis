@@ -1665,5 +1665,37 @@
     "phone": "+393333739402",
     "confirmed": true,
     "idMessage": "BAE5103C8AE56673"
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=K0RiS2Zpa3ovWFM4MmFLbWxoSlNSZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "30305295",
+    "title": "Reservation details 30305295",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 24, 2025",
+    "time": "09:00 am",
+    "language": "IT",
+    "pickup": "Visesa Ubud Resort, Jl. Suweta, Bentuyung Sakti, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+    "people": 2,
+    "name": "Piero Piovesan",
+    "phone": "+393487007067",
+    "confirmed": true,
+    "idMessage": "BAE5097FE15C75F2"
+  },
+  {
+    "url": "https://www.civitatis.com/en/providers/v2/bookings/activity/book?bookingId=eUl4LzlpQ1lmc1NQcFgwVnRVaU8wZz09OjozaXFVQzJXd3NM&type=1",
+    "reservationId": "32477636",
+    "title": "Reservation details 32477636",
+    "tour": "Tour privato di Ubud",
+    "option": "Tour privato in italiano",
+    "date": "August 24, 2025",
+    "time": "09:00 am",
+    "language": "IT",
+    "pickup": "Rama Phala Resort & Spa",
+    "people": 2,
+    "name": "Antonella Imperatore",
+    "phone": "+393343041898",
+    "confirmed": true,
+    "idMessage": "BAE5EC7223640F57"
   }
 ]
