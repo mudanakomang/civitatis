@@ -5,56 +5,54 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:33018694@balitravelawesome.com
-SUMMARY:33018694 | Tour privato dell'est di Bali | Tour privato in italiano
+UID:31081477@balitravelawesome.com
+SUMMARY:31081477 | Tour privato dell'est di Bali | Tour privato in italiano
 	 (IT)
-DTSTAMP:20250815T234228Z
-DTSTART;VALUE=DATE:20250823
-DTEND;VALUE=DATE:20250824
-DESCRIPTION:Name: Manuel Antonio Cardone\nPhone: +393317792241\nTour: Tour 
-	privato dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\n
-	Pickup: KAKUL VILLA UBUD\, Jl. A.A. Gede Rai\, Lodtunduh\, Kecamatan Ubud\
-	, Kabupaten Gianyar\, Bali 80571\, Indonesia\nPeople: 3
-LOCATION:KAKUL VILLA UBUD\, Jl. A.A. Gede Rai\, Lodtunduh\, Kecamatan Ubud\
-	, Kabupaten Gianyar\, Bali 80571\, Indonesia
+DTSTAMP:20250822T182419Z
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+DESCRIPTION:Name: Dario Martellacci\nPhone: +393494596393\nTour: Tour priva
+	to dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPicku
+	p: The Pesaren Ubud\nPeople: 3
+LOCATION:The Pesaren Ubud
 END:VEVENT
 BEGIN:VEVENT
-UID:31384907@balitravelawesome.com
-SUMMARY:31384907 | Tour privato dell'est di Bali | Tour privato in italiano
+UID:30793095@balitravelawesome.com
+SUMMARY:30793095 | Tour privato dell'est di Bali | Tour privato in italiano
 	 (IT)
-DTSTAMP:20250815T234228Z
-DTSTART;VALUE=DATE:20250823
-DTEND;VALUE=DATE:20250824
-DESCRIPTION:Name: Silvia Fantoni\nPhone: +393333885399\nTour: Tour privato 
-	dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup: 
-	Taksu Sanur Hotel  (Sanur)\nPeople: 5
-LOCATION:Taksu Sanur Hotel  (Sanur)
+DTSTAMP:20250822T182419Z
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+DESCRIPTION:Name: Giada Monasterolo\nPhone: +393453501242\nTour: Tour priva
+	to dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPicku
+	p: CALMA UBUD_ Jl. Tirta Tawar Br Kutuh Kaja No.105\, Petulu\, Kecamatan U
+	bud\, Kabupaten Gianyar\, Bali 80571\, Indonesia\nPeople: 3
+LOCATION:CALMA UBUD_ Jl. Tirta Tawar Br Kutuh Kaja No.105\, Petulu\, Kecama
+	tan Ubud\, Kabupaten Gianyar\, Bali 80571\, Indonesia
 END:VEVENT
 BEGIN:VEVENT
-UID:32411961@balitravelawesome.com
-SUMMARY:32411961 | Tour privato dell'est di Bali | Tour privato in italiano
-	 (IT)
-DTSTAMP:20250815T234228Z
-DTSTART;VALUE=DATE:20250823
-DTEND;VALUE=DATE:20250824
-DESCRIPTION:Name: Gennaro Amendola\nPhone: +393356654552\nTour: Tour privat
-	o dell'est di Bali\nOption: Tour privato in italiano\nLanguage: IT\nPickup
-	: SAMKHYA VILLAS\, Jalan Pura Ulun Carik No.8\, Kedewatan\, Ubud\, Gianyar
-	 Regency\, Bali 80571\, Indonesia\nPeople: 3
-LOCATION:SAMKHYA VILLAS\, Jalan Pura Ulun Carik No.8\, Kedewatan\, Ubud\, G
-	ianyar Regency\, Bali 80571\, Indonesia
+UID:32945713@balitravelawesome.com
+SUMMARY:32945713 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250822T182419Z
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+DESCRIPTION:Name: Filippo Musiani\nPhone: +393474582085\nTour: Tour privato
+	 di Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Hotel Ay
+	odya Resort Bali\nPeople: 2
+LOCATION:Hotel Ayodya Resort Bali
 END:VEVENT
 BEGIN:VEVENT
-UID:32380868@balitravelawesome.com
-SUMMARY:32380868 | Tour privato di Ubud | Tour privato in italiano (IT)
-DTSTAMP:20250815T234228Z
-DTSTART;VALUE=DATE:20250823
-DTEND;VALUE=DATE:20250824
-DESCRIPTION:Name: Ivan Stabile\nPhone: +393333739402\nTour: Tour privato di
-	 Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: Villa Nirva
-	na Hotel\, Jalan Pacekan 11\, Br Penestanan Kaja\, Sayan\, Ubud 80571\nPeo
-	ple: 4
-LOCATION:Villa Nirvana Hotel\, Jalan Pacekan 11\, Br Penestanan Kaja\, Saya
-	n\, Ubud 80571
+UID:31150207@balitravelawesome.com
+SUMMARY:31150207 | Tour privato di Ubud | Tour privato in italiano (IT)
+DTSTAMP:20250822T182419Z
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+DESCRIPTION:Name: Emily Festoso\nPhone: +393405134169\nTour: Tour privato d
+	i Ubud\nOption: Tour privato in italiano\nLanguage: IT\nPickup: FREDDIES R
+	ESORT & VILLAS UBUD\, Jalan Gunung Abang\, Banjar\, Penataran\, Lodtunduh\
+	, Kecamatan Ubud\, Kabupaten Gianyar\, Bali 80423\, Indonesia\nPeople: 2
+LOCATION:FREDDIES RESORT & VILLAS UBUD\, Jalan Gunung Abang\, Banjar\, Pena
+	taran\, Lodtunduh\, Kecamatan Ubud\, Kabupaten Gianyar\, Bali 80423\, Indo
+	nesia
 END:VEVENT
 END:VCALENDAR
